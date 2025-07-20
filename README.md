@@ -1,2 +1,1 @@
-# NewLine-cinema
-This project is meant to allow clients to purchase movie tickets and receive receipts that is saved in a database.
+# A client-server app written in Python that uses sockets and a SQLite database to handle movie listings and ticket sales. The server takes care of all the database work and the Tkinter-powered client gives users a simple way to buy tickets, manage movies, and print receipts. A custom JSON protocol is used for communication between the client and the server.
